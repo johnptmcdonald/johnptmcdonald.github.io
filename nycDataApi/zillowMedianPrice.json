@@ -1,5 +1,6 @@
 {
   "name": "zillowMedianPrice",
+  "shouldInvert": true,
   "data": {
     "10025": 1034300.0,
     "10023": 1134700.0,

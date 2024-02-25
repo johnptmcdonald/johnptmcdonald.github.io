@@ -1,5 +1,6 @@
 {
   "name": "crimes",
+  "shouldInvert": true,
   "data": {
     "10001": 503.3541666667,
     "10002": 523.3125,
